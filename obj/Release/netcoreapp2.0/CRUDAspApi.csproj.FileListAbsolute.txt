@@ -1,0 +1,11 @@
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\bin\Release\netcoreapp2.0\CRUDAspApi.deps.json
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\bin\Release\netcoreapp2.0\CRUDAspApi.runtimeconfig.json
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\bin\Release\netcoreapp2.0\CRUDAspApi.runtimeconfig.dev.json
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\bin\Release\netcoreapp2.0\CRUDAspApi.dll
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\bin\Release\netcoreapp2.0\CRUDAspApi.pdb
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\obj\Release\netcoreapp2.0\CRUDAspApi.csprojResolveAssemblyReference.cache
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\obj\Release\netcoreapp2.0\CRUDAspApi.csproj.CoreCompileInputs.cache
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\obj\Release\netcoreapp2.0\CRUDAspApi.AssemblyInfoInputs.cache
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\obj\Release\netcoreapp2.0\CRUDAspApi.AssemblyInfo.cs
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\obj\Release\netcoreapp2.0\CRUDAspApi.dll
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspApi\obj\Release\netcoreapp2.0\CRUDAspApi.pdb
